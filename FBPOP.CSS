@@ -21,13 +21,13 @@
 }
 
 #MBL_fanpageslider_box_mid{
-    padding:10px;
+    padding:5px;
     
 }
 
 #MBL_fanpageslider_box_head {
     line-height: 0px;
-    padding: 3px;
+    padding: 1px;
     background: #F3F3F3;
     -webkit-border-top-left-radius: 4px;
     -webkit-border-top-right-radius: 4px;
@@ -38,7 +38,7 @@
 }
 
 .MBL_fanpageslider_customtext {
-    margin-bottom: 7px;
+    margin-bottom: 2px;
     font-size: 16px;
     font-weight: bold;
 }
@@ -49,7 +49,7 @@
 #MBL_fanpageslider_box img.MBL_fps_close {
     width: 20px;
     height: 20px;
-    padding: 3px;
+    padding: 2px;
     cursor: pointer;
     border-radius: 3px;
     display: inline-block;
