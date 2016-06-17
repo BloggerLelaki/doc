@@ -4,10 +4,10 @@
     border: 1px solid #ccc;
     bottom: -500px;
     position: fixed;
-    right: 30px;
+    right: 56px;
     min-height:140px;
     z-index: 900000;
-    width: 320px;
+    width: 300px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
