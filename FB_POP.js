@@ -127,7 +127,7 @@
 				var channelsetup=$('<div/>', {
 				    'class':'fb-page',
 				    'data-href':opts.channel,
-				    'data-width':"280",
+				    'data-width':"300",
 				    'data-small-header':"true",
 				    'data-adapt-container-width':'ture',
 				    'data-hide-cover':opts.fb_hide_cover,
