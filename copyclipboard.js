@@ -1,5 +1,4 @@
-<script>
-    function detectIE() {
+function detectIE() {
         var ua = window.navigator.userAgent;
 
         var msie = ua.indexOf('MSIE ');
@@ -91,4 +90,3 @@
         }
 
     }
-</script>
